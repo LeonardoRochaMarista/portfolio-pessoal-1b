@@ -10,6 +10,8 @@
 
 # Projeto escrita do README
 
+![Capa do projeto](img/capa.PNG)
+
 ## Descrição
 
 ## Introdução
